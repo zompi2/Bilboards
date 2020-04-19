@@ -1,16 +1,15 @@
 #pragma once
 
 /**
-* Particles example.
+* Billboards example.
 *
 * This is an engine class where the core application's mechanics
 * are stored and processed.
 *
-* This file is a part of a project from http://zompi.pl/gpu-particles
 * (c) 2015 Damian Nowakowski
 */
 
-#include <IniReader.h>
+#include "inih/cpp/INIReader.h"
 
 #include <GL/glew.h>
 #include <GL/wglew.h>

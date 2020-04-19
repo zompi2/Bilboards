@@ -1,5 +1,5 @@
 /**
- * This file is a part of a project from http://zompi.pl/billboards-with-geometry-shader/
+ * Geometry shader used to draw a billboard from a single point.
  * (c) 2015 Damian Nowakowski
  */
 

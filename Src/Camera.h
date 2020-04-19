@@ -6,7 +6,6 @@
  * This is a camera class. It stores all camera data, updates it state
  * and handles camera movement.
  *
- * This file is a part of a project from http://zompi.pl/billboards-with-geometry-shader/
  * (c) 2015 Damian Nowakowski
  */
 

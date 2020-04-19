@@ -1,5 +1,5 @@
 /**
- * This file is a part of a project from http://zompi.pl/billboards-with-geometry-shader/
+ * Fragment shader used to draw a billboard.
  * (c) 2015 Damian Nowakowski
  */
 

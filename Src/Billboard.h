@@ -5,7 +5,6 @@
  *
  * This is a billboard class. It handles its creation and rendering.
  *
- * This file is a part of a project from http://zompi.pl/billboards-with-geometry-shader/
  * (c) 2015 Damian Nowakowski
  */
 

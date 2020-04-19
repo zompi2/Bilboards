@@ -3,7 +3,6 @@
 *
 * This is a scene class. It contains all elements displaying on the scene.
 *
-* This file is a part of a project from http://zompi.pl/billboards-with-geometry-shader/
 * (c) 2015 Damian Nowakowski
 */
 

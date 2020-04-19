@@ -3,9 +3,7 @@
 *
 * Simple static library for easy loading and compiling shaders.
 *
-* This file is a part of a project from http://zompi.pl/billboards-with-geometry-shader/
-*
-* (c) 2015 Damian Nowakowski
+* (c) 2014 Damian Nowakowski
 */
 
 

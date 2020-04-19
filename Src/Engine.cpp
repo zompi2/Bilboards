@@ -1,10 +1,9 @@
 /**
-* Particles example.
+* Billboards example.
 *
 * This is an engine class where the core application's mechanics
 * are stored and processed.
 *
-* This file is a part of a project from http://zompi.pl/gpu-particles
 * (c) 2015 Damian Nowakowski
 */
 

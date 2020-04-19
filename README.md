@@ -1,9 +1,18 @@
-# Billboards
+Billboards.
+=====
+This is a project that presents how to implement a billboard drawing from a single point on scene.
 
-Here's a project that presents how to implement billboards with geometry shader in OpenGL.
+## How to build
+This project uses CMake to generate build solution.  
+It requires OpenGL to be installed on the building machine.  
+It requires [GLEW](http://glew.sourceforge.net) and [GLFW](https://www.glfw.org) and [DevIL](http://openil.sourceforge.net) libraries (give CMake paths to their libraries and includes).  
+Data directory must be in the same directory the executable is.  
 
-It requires external libraries to use from here: https://github.com/zompi2/Externals
+## Controls
+Hold **right mouse** button to rotate camera  
+**W/S/A/D** - move camera  
 
-Link to the tutorial: http://zompi.pl/billboards-with-geometry-shader/
+## More
+You can read more about billboards in the blog entry: https://damnow.blogspot.com/2015/02/billboards-with-geometry-shader.html
 
-![](http://zompi.pl/wp-content/uploads/2015/02/bheart.png)
+You can download a working .exe file from here: https://drive.google.com/file/d/19POqRooudLBYWwwHk6edQJTFG8bKdGPB

@@ -3,16 +3,15 @@
  *
  * This is the main file of Billboards example.
  *
- * This file is a part of a project from http://zompi.pl/billboards-with-geometry-shader/
- * (c) 2015
+ * (c) 2015 Damian Nowakowski
  */
 
 #include "Engine.h"
 
 /**
- * Start the application with no console 
+ * Start the application.
  */
-int __stdcall wWinMain(HINSTANCE hInst, HINSTANCE prevInst, LPWSTR szCmdLine, int nCmdShow)
+int main()
 {
 	// Init application engine so it can run
 	ENGINE_INIT

@@ -3,9 +3,7 @@
 *
 * Simple static library for easy loading and compiling shaders.
 *
-* This file is a part of a project from http://zompi.pl/billboards-with-geometry-shader/
-*
-* (c) 2015 Damian Nowakowski
+* (c) 2014 Damian Nowakowski
 */
 
 
@@ -53,7 +51,7 @@ void Shaders::LinkProgram(GLuint program)
 	// Check if linking went good and display an error log when not
 	ValidateProgram(program);
 
-	// walidacja shaderów
+	// walidacja shaderï¿½w
 	glValidateProgram(program);
 
 	ValidateProgram(program);
