@@ -13,6 +13,6 @@ Hold **right mouse** button to rotate camera
 **W/S/A/D** - move camera  
 
 ## More
-You can read more about billboards in the blog entry: https://damnow.blogspot.com/2015/02/billboards-with-geometry-shader.html
+You can read more about billboards in the blog entry: https://zompidev.blogspot.com/2015/02/billboards-with-geometry-shader.html
 
 You can download a working .exe file from here: https://drive.google.com/file/d/19POqRooudLBYWwwHk6edQJTFG8bKdGPB
